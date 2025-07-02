@@ -125,5 +125,9 @@ def trends():
                            answered=answered,
                            missed=missed)
 
+import os
+
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=443, ssl_context='adhoc', debug=True)
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
+
