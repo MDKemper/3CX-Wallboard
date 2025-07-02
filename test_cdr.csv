@@ -1,0 +1,11 @@
+CallID,Time,Duration,Direction,Status
+1,2025-07-02 09:01,180,Inbound,Completed
+2,2025-07-02 09:15,240,Inbound,Completed
+3,2025-07-02 09:22,0,Inbound,Missed
+4,2025-07-02 10:05,300,Outbound,Completed
+5,2025-07-02 10:20,0,Inbound,No Answer
+6,2025-07-02 11:00,120,Inbound,Completed
+7,2025-07-02 11:30,90,Inbound,Completed
+8,2025-07-02 11:45,0,Inbound,Missed
+9,2025-07-02 12:10,60,Outbound,Completed
+10,2025-07-02 12:30,0,Inbound,No Answer
